@@ -1,6 +1,6 @@
 # AdventOfCode2020
 
-This is the root folder of my Advent of Code (edition 2020) solutions, using **Python3**. 
+This is the root folder of my [Advent of Code (edition 2020)](https://adventofcode.com/2020) solutions, using **Python3**. 
 
 As well as the front-end allowing you to download your own inputs and solve them without interaction.
 
@@ -12,7 +12,7 @@ TODO
 
 ## Incompleteness
 
-This contains my python solutions up to the 7th day (which is the latest available day at the time). If a solution is absent, try to come back later (or open an issue).
+This contains my python solutions up to the 8th day (which is the latest available day at the time). If a solution is absent, try to come back later (or open an issue).
 
 You're also welcome to open an issue to discuss my implementation, or any other subject.
 
