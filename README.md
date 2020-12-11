@@ -12,7 +12,7 @@ TODO
 
 ## Incompleteness
 
-This contains my python solutions up to the 8th day (which is the latest available day at the time). If a solution is absent, try to come back later (or open an issue).
+This contains my python solutions up to the 9th day ~~(which is the latest available day at the time)~~ and the rest will follow. If a solution is absent, try to come back later (or open an issue).
 
 You're also welcome to open an issue to discuss my implementation, or any other subject.
 
